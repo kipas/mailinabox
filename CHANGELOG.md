@@ -1,6 +1,9 @@
 CHANGELOG
 =========
 
+* Overhauled support for Internationalized domain names (IDNs).
+
+
 In Development...
 -----------------
 
